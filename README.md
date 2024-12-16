@@ -5,9 +5,9 @@
 
 <h2>🚀Tecnologias</h2>
 <p>
-    - <i class="fa-brands fa-react"></i> React;
-    - <i class="fa-brands fa-js"></i> JavaScript;
-    - <i class="fa-brands fa-css3"></i> CSS;
+    - <i class="fa-brands fa-react"></i> React;<br>
+    - <i class="fa-brands fa-js"></i> JavaScript;<br>
+    - <i class="fa-brands fa-css3"></i> CSS;<br>
     - <i class="fa-brands fa-html5"></i> HTML.
 </p>
 
